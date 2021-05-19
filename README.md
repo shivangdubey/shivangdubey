@@ -7,3 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play games ! 
 - 🤿 Bringing Uncertainity! [Uncertain Co](https://www.linkedin.com/company/uncertain-co)
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivangdubey.visitor-badge)

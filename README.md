@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Machine Learning Applications and Problem Solving
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me anything, and even if I don't know the answer, I'll research it for ya
-- 📫 How to reach me: [![Linkedin: Shivang_Dubey](https://img.shields.io/badge/-Shivang_Dubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivangdubey8/)](https://www.linkedin.com/in/shivangdubey8/), [Portfolio](https://shivangdubey.github.io/) & [![](https://img.shields.io/badge/Twitter-ShivangDubey-green&link=https://twitter.com/subtleshiv)](https://twitter.com/subtleshiv)
+- 📫 How to reach me: [![Linkedin: Shivang_Dubey](https://img.shields.io/badge/-Shivang_Dubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivangdubey8/)](https://www.linkedin.com/in/shivangdubey8/), [Portfolio](https://shivangdubey.github.io/) & [![Twitter](https://img.shields.io/badge/Twitter-ShivangDubey-green&link=https://twitter.com/subtleshiv)](https://twitter.com/subtleshiv)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play games ! 
 - 🤿 Bringing Uncertainity! [Uncertain Co](https://www.linkedin.com/company/uncertain-co)

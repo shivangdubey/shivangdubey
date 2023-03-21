@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎂 I'm studying Electroncis and Communication Engineering in Delhi, India
+- 🎂 I'm studying Electronics and Communication Engineering in Delhi, India
 - 🔭 I’m currently working on Machine Learning Applications and Problem Solving
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me anything, and even if I don't know the answer, I'll research it for you 😊
